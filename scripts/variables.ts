@@ -1,0 +1,1 @@
+export const API_URL = "https://free.currconv.com/api/v7/";

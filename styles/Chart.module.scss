@@ -1,0 +1,13 @@
+.highlight-chart-wrapper {
+  margin-top: 20px;
+
+  .highlight-chart {
+    width: 50%;
+    margin: 0 auto;
+
+    @media (max-width: 992px) {
+      width: 100%;
+      height: 50%;
+    }
+  }
+}
