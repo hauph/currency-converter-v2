@@ -1,7 +1,7 @@
 # Currency Converter V.2
 
 For V.1, please refer to https://github.com/hauph/full-source-currency-converter-app
-<!-- Demo: https://hauph.github.io/currency-converter/ -->
+Demo: https://currency-converter-er1w.onrender.com/
 
 This app was built Next JS. The plugins, libraries used are as follows:
 
